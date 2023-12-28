@@ -1,7 +1,9 @@
 body {
   font-family: "Arial", sans-serif;
-  background: #5784e6;
-  margin: 0;
+  background-image: url("/download.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;
